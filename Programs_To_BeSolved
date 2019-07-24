@@ -10,6 +10,23 @@ Write a program to replace particular word in a line
 Write a program to replace second letter of every word with a particular character
     Input -  RABBIT BUMPED ON A HAT AND BROKE THE HAT
     Output - REBBIT BEMPED OE A HET AED BEOKE TEE HET  (Replace every second letter of a word with E )
+Write a program to sort a Array in ascending order
+    Input  - RAM
+             ABARIYAPTHAN
+             SHYAM
+             NARAYANAN
+             MOHAN
+             SOHAN
+    Output - ABARIYAPTHAN
+             MOHAN
+             NARAYANAN
+             RAM
+             SHYAM
+             SOHAN
    
+   Write a program to compare two lines and pick the similar words from both the lines.
+        Input - RAM AND SITA WENT TO FOREST WITH LAKSHMANA
+                PANDAVAS WENT TO FOREST WITH DRAUPATHI
+        Output - WENT TO FOREST WITH 
     
     
