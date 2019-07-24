@@ -29,4 +29,7 @@ Write a program to sort a Array in ascending order
                 PANDAVAS WENT TO FOREST WITH DRAUPATHI
         Output - WENT TO FOREST WITH 
     
-    
+    Write a program to flatten the JSON file
+            Input - {book:"Ramayana",author:"Valmiki"}
+            Output  book=Ramayana 
+                    author=Valmiki
