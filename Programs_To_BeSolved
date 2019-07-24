@@ -1,0 +1,15 @@
+Write a program to reverse a string
+    Input - PARIS
+    Output - SIRAP
+Write a program to concatenate two strings and replace a particular character
+    Input - SUN MOON
+    Output  - SUMMOOM  (Replace N with M)
+Write a program to replace particular word in a line
+    Input - LIAR STANDS HIGHER MEETS ANOTHER LIAR AND GREETS ANOTHER LIAR
+    Output - WISE STANDS HIGHER MEETS ANOTHER WISE AND GREETS ANOTHER WISE  (Replace LIAR WITH WISE)
+Write a program to replace second letter of every word with a particular character
+    Input -  RABBIT BUMPED ON A HAT AND BROKE THE HAT
+    Output - REBBIT BEMPED OE A HET AED BEOKE TEE HET  (Replace every second letter of a word with E )
+   
+    
+    
