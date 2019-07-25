@@ -33,3 +33,7 @@ Write a program to sort a Array in ascending order
             Input - {book:"Ramayana",author:"Valmiki"}
             Output  book=Ramayana 
                     author=Valmiki
+Write a program to split every 3 characters from a string
+            Input - SRIRANGAM
+            Output - SRI RAN GAM
+            
